@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    text-shadow: 2px 2px #4fafc2;
+    font-size: 20px;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+img {
+
+    border-radius: 50% width:100%
+}
